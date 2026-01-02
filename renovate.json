@@ -2,7 +2,8 @@
    "packageRules": [
   {
     "matchDatasources": ["npm"],
-    "minimumReleaseAge": "14 days",
-  }],
+    "minimumReleaseAge": "14 days"
+  }
+   ],
    "dependencyDashboard": true
 }
