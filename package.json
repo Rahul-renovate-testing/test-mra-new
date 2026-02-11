@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "@swc/core": "1.13.5"
+    "@swc/core": "1.15.11"
   }
 }
